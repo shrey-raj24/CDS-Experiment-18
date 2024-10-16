@@ -1,4 +1,4 @@
-# Experiment---18  
+# Experiment-18  
 
 ### Aim 
 To study and implement Stack implementation in C++ using array. <br> 
