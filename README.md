@@ -269,7 +269,7 @@ int main()
 
 ### Output 
 (A) <br> 
-![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18A.png) 
+![](https://github.com/shrey-raj24/CDS-Experiment-18/blob/main/OUTPUT_18a.png) 
 
 (B) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---18/blob/main/Output_18B.png) 
